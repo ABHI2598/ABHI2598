@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ABHI2598
 - 👀 Software Developer
 - 🌱 c++ | JAVA | Javascript | AngularJs
-- 💞️ I’m looking to collaborate on ...
 - 📫 pandeyabhinav56@gmail.com
 
 <!---
