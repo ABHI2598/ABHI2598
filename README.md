@@ -9,8 +9,16 @@
 - 👩‍💻 I'm looking to collaborate on GoLang and AWS projects
 - 📫 How to reach me - email : pandeyabhinav56@gmail.com
 
+## 🔭 Experience:
+#### Software Engineer-II at Connectwise (October 2023 – Present):
+- Working on full-stack development for BMS products using technologies like React.js, Java, and GoLang. Focused on building product catalogs, optimizing APIs, and implementing vendor persistence.
 
-<br />
+#### Full Stack Developer at Tata Nexarc (July 2021 – October 2023):
+- Reengineered the Tenders & Quotations module, optimized SEO, and built over 30 REST APIs for mobile applications.
+
+#### Intern at Gurugram Police Cyber Cell (May 2021 – July 2021):
+- Worked on cybercrime-related web applications, gaining experience in web security and React.js/Express.js development.
+
 <br />
 <br />
 <br />
