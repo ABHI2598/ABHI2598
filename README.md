@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABHI2598
 - 👀 Software Developer
-- 🌱 c++ | JAVA | Javascript | ReactJs | JQuery
+- 🌱 GOlang | JAVA | Javascript | ReactJs | JQuery
 - 📫 pandeyabhinav56@gmail.com
 
 <!---
