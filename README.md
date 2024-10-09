@@ -25,6 +25,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
 <img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
 
+<br />
+<br />
+
   ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
 
